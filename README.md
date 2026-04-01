@@ -8,7 +8,7 @@
   <a href="https://github.com/kawarimidoll/typograssy">
     <img
       alt="typograssy"
-      src="https://typograssy.deno.dev/api?text=LILITH%20&comment=TuturuYuuki&scheme=summer&speed=120"
+      src="https://typograssy.deno.dev/api?text=TUTURUYUUKI%20BUILDING%20PHP%20TOOLS%20PLAYING%20GENSHIN%20AND%20WW%20WITH%20LILITH%20%20&comment=TuturuYuuki&scheme=summer&speed=90"
     />
   </a>
 </p>
