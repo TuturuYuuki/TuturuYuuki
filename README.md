@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hello World! I'm Yuuki</h1>
 
+
 <p align="center">
-  <img src="./img/lilith.gif" alt="lilith gif" width="100%">
+  <img src="./img/footer.png" alt="footer gif" width="100%" />
 </p>
-
-
 
 ### Welcome to my digital hideout 🍃✨
 
@@ -16,8 +15,10 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 
 💬 **I'm always open** to chatting about API integrations, CSS tweaks, or swapping anime recommendations!
 
+
+
 <p align="center">
-  <img src="./img/main.png" alt="main" width="100%" />
+  <img src="./img/lilith.png" alt="main" width="100%" />
 </p>
 
 ---
@@ -82,10 +83,6 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 
 > "Code today, explore tomorrow. And always spend time with Lilith." 
 
-<p align="center">
-  <img src="./img/footer.png" alt="footer gif" width="100%" />
-</p>
-
 ---
 
 <p align="center">
@@ -93,3 +90,8 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
   <br/>
   <sub>🌙 Sweet dreams are made of anime and code 🌙</sub>
 </p>
+
+<p align="center">
+  <img src="./img/lilith.gif" alt="lilith gif" width="100%">
+</p>
+
