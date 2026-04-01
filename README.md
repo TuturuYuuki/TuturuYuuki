@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World! I'm Yuuki</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/3RE6G19bO4EAAAAd/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%BD%A0%E5%92%8C%E6%88%91-%E8%8E%89%E8%8E%89%E7%B5%B2.gif" alt="header" width="100%" />
+  <img src="./img/header.mp4" alt="header" width="100%" />
 </p>
 
 <p align="center">
