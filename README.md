@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World! I'm Yuuki</h1>
 
 <p align="center">
-  <img src="./img/lilith.gif" alt="lilith header" width="100%" />
+  <img src="./img/lilith.gif" alt="lilith gif" width="100%">
 </p>
 
 
