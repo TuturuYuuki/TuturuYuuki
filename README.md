@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World! I'm Yuuki</h1>
 
 <p align="center">
-  <img src="./img/header.gif" alt="header" width="100%" />
+  <img src="./img/img/lilith-the-noexistencen-of-you-and-me.3840x2160 (1).gif" height="220" style="object-fit: cover; object-position: center 22%;" />
 </p>
 
 
@@ -17,7 +17,7 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 💬 **I'm always open** to chatting about API integrations, CSS tweaks, or swapping anime recommendations!
 
 <p align="center">
-  <img src="./img/main.png" alt="main gif" width="320" />
+  <img src="./img/main.png" alt="main" width="100%" height="220" style="object-fit: cover; object-position: center 22%;" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 
 ### 🎨 My Favorites
 
-- 🎮 **Games**: Genshin Impact, Wuthering Waves, Mobile Legends, The Noexistence of You and Me
+- 🎮 **Games**: Genshin Impact, Wuthering Waves, Umamusume, The Noexistence of You and Me
 - 🌸 **Anime Icons**: Elaina, Lilith
 - 🎵 **Dev Vibe**: Anime soundtracks & lofi beats
 - 💡 **Current Focus**: PHP API optimization, Flutter mobile apps, anime tracking systems
