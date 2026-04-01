@@ -4,14 +4,7 @@
   <img src="./img/header.gif" alt="header" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
-    <img
-      alt="typograssy"
-      src="https://typograssy.deno.dev/api?text=LILITH%20LILITH%20LILITH%20LILITH%20LILITH%20LILITH%20&comment=TuturuYuuki&bg=fff5f8&frame=8b001f&l0=ffe5ef&l1=ff8fb1&l2=ff5d8f&l3=e11d68&l4=b0004b&speed=90"
-    />
-  </a>
-</p>
+
 
 ### Welcome to my digital hideout 🍃✨
 
@@ -71,6 +64,15 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img
+      alt="typograssy"
+      src="https://typograssy.deno.dev/api?text=LILITH%20LILITH%20LILITH%20LILITH%20LILITH%20LILITH%20&comment=TuturuYuuki&bg=fff5f8&frame=8b001f&l0=ffe5ef&l1=ff8fb1&l2=ff5d8f&l3=e11d68&l4=b0004b&speed=90"
+    />
+  </a>
+</p>
 
 ### 🎨 My Favorites
 
