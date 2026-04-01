@@ -31,11 +31,8 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 ### ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuturuYuuki&theme=rose" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuturuYuuki&theme=github_dark" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuturuYuuki&theme=rose" alt="streak stats" width="49%" height="220" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuturuYuuki&theme=github_dark" alt="github stats" width="49%" height="220" />
 </p>
 
 ### 🔥 Top Languages
