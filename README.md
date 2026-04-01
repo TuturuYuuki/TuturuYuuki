@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World! I'm Yuuki</h1>
 
 <p align="center">
-  <img src="./img/header.gif" alt="header" width="100%" />
+  <img src="./img/header.png" alt="header" width="100%" />
 </p>
 
 <p align="center">
