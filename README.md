@@ -8,7 +8,7 @@
   <a href="https://github.com/kawarimidoll/typograssy">
     <img
       alt="typograssy"
-      src="https://typograssy.deno.dev/api?text=LILITH%20&comment=TuturuYuuki&bg=fff5f8&frame=8b001f&l0=ffe5ef&l1=ff8fb1&l2=ff5d8f&l3=e11d68&l4=b0004b&speed=90"
+      src="https://typograssy.deno.dev/api?text=LILITH%20LILITH%20LILITH%20LILITH%20LILITH%20LILITH%20&comment=TuturuYuuki&bg=fff5f8&frame=8b001f&l0=ffe5ef&l1=ff8fb1&l2=ff5d8f&l3=e11d68&l4=b0004b&speed=90"
     />
   </a>
 </p>
@@ -32,7 +32,7 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="dev quote" />
+  <img src="https://readme-jokes.vercel.app/api?theme=default&hideBorder" alt="dev meme" />
 </p>
 
 ### ✨ GitHub Stats
@@ -42,13 +42,13 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuturuYuuki&show_icons=true&theme=default&hide_border=true" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuturuYuuki&theme=github_dark" alt="github stats" />
 </p>
 
 ### 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuturuYuuki&layout=compact&theme=default&hide_border=true" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TuturuYuuki&theme=github_dark" alt="top languages" />
 </p>
 
 ### 🧰 Tech Stack & Tools I Use
@@ -84,7 +84,7 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 > "Code today, explore tomorrow. And always spend time with Lilith." 
 
 <p align="center">
-  <img src="./img/footer.png" alt="footer gif" width="320" />
+  <img src="./img/footer.png" alt="footer gif" width="100%" />
 </p>
 
 ---
