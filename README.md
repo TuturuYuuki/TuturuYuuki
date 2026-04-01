@@ -1,38 +1,96 @@
-<div align="left">
+<h1 align="center">👋 Hello World! I'm Yuuki</h1>
 
-<img src="https://typograssy.deno.dev/api?text=Aria%20Alvanza&l0=1&l1=100&l2=100&l3=100&l4=95&mc=1&bg=1e1e2e&frame=none&comment=Clean%20dark%20aesthetic&speed=120&font=Fira%20Code&color=88c0d0&scolor=81a1c1&theme=nord&contribs=1" alt="Aria Alvanza Typograssy" />
+<p align="center">
+  <img src="./img/header.gif" alt="header" width="100%" />
+</p>
 
-# 👋 Halo, Saya Aria Alvanza (TuturuYuuki)
+<p align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img
+      alt="typograssy"
+      src="https://typograssy.deno.dev/api?text=LILITH%20&comment=TuturuYuuki&scheme=summer&speed=120"
+    />
+  </a>
+</p>
 
-Selamat datang di profil GitHub saya!
+### Welcome to my digital hideout 🍃✨
 
----
+Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digital dan explore berbagai dunia gaming.
 
-## 🧑‍💻 About Me
+⚖️ **Striving to balance** my life between lines of code and my personal passions. 💻 I spend most of my free time building digital tools using the **PHP/XAMPP stack**, currently focusing on optimizing an anime tracking app and managing my digital collectibles. 🌸 *(Self-proclaimed devotee of Elaina)*. 
 
-- 🎓 Mahasiswa **Politeknik Elektronika Negeri Surabaya (PENS)**
-- 🧠 Saat ini sedang mengerjakan **Tugas Akhir** dengan topik terkait **Surabaya**
-- 📺 Sedang mengembangkan aplikasi **Anime Tracker**
+🎮 **When I'm not wrestling with a debugger**, you can probably find me exploring the worlds of **Genshin Impact** and **Wuthering Waves**, climbing the ranks in **Mobile Legends**, or immersed in **The Noexistence of You and Me** (always spending time with **Lilith**). 
 
----
+💬 **I'm always open** to chatting about API integrations, CSS tweaks, or swapping anime recommendations!
 
-## ⚙️ Tech Stack
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TuturuYuuki&show_icons=true&theme=nord&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuturuYuuki&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="./img/main.gif" alt="main gif" width="320" />
+</p>
 
 ---
 
-Terima kasih sudah mampir! ✨
+### ✍️ Random Dev Quote
 
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="dev quote" />
+</p>
+
+### ✨ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuturuYuuki&theme=rose" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuturuYuuki&show_icons=true&theme=default&hide_border=true" alt="github stats" />
+</p>
+
+### 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuturuYuuki&layout=compact&theme=default&hide_border=true" alt="top languages" />
+</p>
+
+### 🧰 Tech Stack & Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### 🌍 Social Media & Connect
+
+<p align="center">
+  <a href="https://www.instagram.com/arialvan_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/aria-alvanza-angzola-adi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="https://github.com/TuturuYuuki"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" /></a>
+</p>
+
+---
+
+### 🎨 My Favorites
+
+- 🎮 **Games**: Genshin Impact, Wuthering Waves, Mobile Legends, The Noexistence of You and Me
+- 🌸 **Anime Icons**: Elaina, Lilith
+- 🎵 **Dev Vibe**: Anime soundtracks & lofi beats
+- 💡 **Current Focus**: PHP API optimization, Flutter mobile apps, anime tracking systems
+
+### 🍃 Cozy Hideout
+
+> "Code today, explore tomorrow. And always spend time with Lilith." 
+
+<p align="center">
+  <img src="./img/footer.gif" alt="footer gif" width="320" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ✨
+  <br/>
+  <sub>🌙 Sweet dreams are made of anime and code 🌙</sub>
+</p>
