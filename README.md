@@ -29,17 +29,31 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
   <img src="https://readme-jokes.vercel.app/api?theme=default&hideBorder" alt="dev meme" />  
 </p>
 
+### 🌸 Anime Quote
+
+<p align="center">
+  <img src="https://anime-quotes-readme.vercel.app/api/quotes/anime?theme=dark" alt="anime quote" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TuturuYuuki&theme=dracula&no-frame=true&row=1&column=7" alt="trophies" />
+  </a>
+</p>
+
 ### ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuturuYuuki&theme=rose" alt="streak stats" width="49%" height="220" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuturuYuuki&theme=github_dark" alt="github stats" width="49%" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TuturuYuuki&show_icons=true&theme=tokyonight" alt="github stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuturuYuuki&theme=tokyonight" alt="streak stats" width="49%" />
 </p>
 
 ### 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TuturuYuuki&theme=github_dark" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuturuYuuki&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
 ### 🧰 Tech Stack & Tools I Use
@@ -82,6 +96,16 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 ### 🍃 Cozy Hideout
 
 > "Code today, explore tomorrow. And always spend time with Lilith." 
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TuturuYuuki/TuturuYuuki/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TuturuYuuki/TuturuYuuki/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TuturuYuuki/TuturuYuuki/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
