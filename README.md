@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./img/footer.png" alt="footer gif" width="100%" />
+  <img src="./img/Lilith (1).png" alt="footer gif" width="100%" />
 </p>
 
 ### Welcome to my digital hideout 🍃✨
