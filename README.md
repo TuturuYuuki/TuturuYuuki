@@ -26,7 +26,7 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=default&hideBorder" alt="dev meme" />  
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev meme" />  
 </p>
 
 ### ✨ GitHub Stats
@@ -91,10 +91,10 @@ Halo, aku **Yuuki** – seorang passionate developer yang suka bikin tools digit
 
 ---
 
+<h2 align="center">Thanks for visiting my profile! ✨</h2>
+
 <p align="center">
-  Thanks for visiting my profile! ✨
-  <br/>
-  <sub>🌙 Sweet dreams are made of anime and code 🌙</sub>
+  <b><i>🌙 Sweet dreams are made of anime and code 🌙</i></b>
 </p>
 
 <p align="center">
